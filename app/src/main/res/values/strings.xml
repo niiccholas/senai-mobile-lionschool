@@ -3,4 +3,21 @@
     <string name="findyourcourse">Find your favorite course</string>
     <string name="paragraphInitial">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
     <string name="getstarted">Get Started</string>
+    <string name="placeholder">Find your course</string>
+    <string name="placeholder2">Find a student</string>
+    <string name="courses">Courses</string>
+    <string name="DS">DS</string>
+    <string name="RDS">RDS</string>
+    <string name="ELE">ELE</string>
+    <string name="DS2">Desenvolvimento de Sistemas</string>
+    <string name="RDS2">Redes de Computadores</string>
+    <string name="ELE2">Eletroeletrônica</string>
+    <string name="DS3">Learn to develop web and mobile applications.</string>
+    <string name="RDS3">Learn to design communication networks.</string>
+    <string name="ELE3">Learn to design communication networks.</string>
+    <string name="semesters">3 semesters</string>
+    <string name="all">Todos</string>
+    <string name="cursing">Cursando</string>
+    <string name="finished">Finalizado</string>
+    <string name="studentslist">Students List</string>
 </resources>
