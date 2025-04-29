@@ -92,7 +92,7 @@ fun StudentScreen(){
 
                 Text(text = stringResource(R.string.behavior), color = Color.White, fontSize = 23.sp)
 
-                Column(Modifier.fillMaxWidth().height(350.dp).padding(horizontal = 30.dp, vertical = 55.dp), verticalArrangement = Arrangement.SpaceBetween){
+                Column(Modifier.fillMaxWidth().height(350.dp).padding(horizontal = 30.dp, vertical = 40.dp), verticalArrangement = Arrangement.SpaceBetween){
                     SubjectCard()
                     SubjectCard()
                     SubjectCard()

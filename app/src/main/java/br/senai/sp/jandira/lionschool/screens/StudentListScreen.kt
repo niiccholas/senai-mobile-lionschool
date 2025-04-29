@@ -149,7 +149,8 @@ fun StudentListScreen(){
                 modifier = Modifier.padding(top = 10.dp)
             ){
                 Row(
-                    verticalAlignment = Alignment.CenterVertically
+                    verticalAlignment = Alignment.CenterVertically,
+                    modifier = Modifier.padding(bottom = 10.dp)
                 ){
                     Image(
                         painter = painterResource(R.drawable.graduation),

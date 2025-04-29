@@ -29,16 +29,16 @@ import br.senai.sp.jandira.lionschool.screens.StudentListScreen
 fun SubjectCard() {
 
     Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
-        Text("SIOP", color = Color.White, fontWeight = FontWeight.SemiBold, fontSize = 17.sp)
+        Text("SIOP", color = Color.White, fontWeight = FontWeight.SemiBold, fontSize = 19.sp)
 
         Box(modifier = Modifier.shadow(elevation = 5.dp, shape = RoundedCornerShape(2.dp), clip = true).clip(RoundedCornerShape(2.dp)).width(width = 200.dp)
-            .height(20.dp).background(color = Color.White)){
+            .height(25.dp).background(color = Color.White)){
 
             Box(modifier = Modifier.clip(
                 RoundedCornerShape(topEnd = 3.dp, bottomEnd = 3.dp)).fillMaxHeight().width(100.dp).background(Color(0xffF6B817)))
         }
 
-        Text("50", color = Color.White, fontWeight = FontWeight.SemiBold, fontSize = 17.sp)
+        Text("50", color = Color.White, fontWeight = FontWeight.SemiBold, fontSize = 19.sp)
     }
 }
 
