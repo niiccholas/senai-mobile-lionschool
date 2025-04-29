@@ -20,4 +20,6 @@
     <string name="cursing">Cursando</string>
     <string name="finished">Finalizado</string>
     <string name="studentslist">Students List</string>
+    <string name="behavior">Desempenho</string>
+    <string name="finished2">Concluído</string>
 </resources>
